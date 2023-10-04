@@ -5,6 +5,8 @@
 ;; Author: Karthik Chikmagalur <karthikchikmagalur@gmail.com>
 ;; Keywords: convenience, emulations
 
+;; Package-Requires: ((emacs "28.1") (which-key "3.6.0"))
+
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or
@@ -20,7 +22,7 @@
 
 ;;; Commentary:
 
-;; 
+;; Glof-glof. GLOF.
 
 ;;; Code:
 (require 'seq)
